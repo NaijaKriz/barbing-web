@@ -28,7 +28,7 @@ const Hero = () => {
         <div id='content-box' className=" flex flex-col 
         justify-center items-start gap-4">
             <h1 data-aos="zoom-in" className='text-xl md:text-2xl text-black font-semibold'>WELCOME TO</h1>
-            <h1 data-aos="zoom-in" className='text-4xl md:text-6xl text-black font-bold'>BestMan Barbershop @ Ada Geroge <br /> PORTHARCOURT</h1>
+            <h1 data-aos="zoom-in" className='text-4xl md:text-6xl text-black font-bold'>BestMan Barbershop <br /> @ Ada Geroge <br /> PORTHARCOURT</h1>
             <div data-aos="fade-up" id='icon-list' className="flex flex-col justify-center items-start gap-6">
                 <div id="icon-box" className="flex items-center justify-center gap-3">
                     <FaLocationDot size={30} className='text-black size-6' />
