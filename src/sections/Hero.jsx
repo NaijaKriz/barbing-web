@@ -28,18 +28,18 @@ const Hero = () => {
         <div id='content-box' className=" flex flex-col 
         justify-center items-start gap-4">
             <h1 data-aos="zoom-in" className='text-xl md:text-2xl text-black font-semibold'>WELCOME TO</h1>
-            <h1 data-aos="zoom-in" className='text-4xl md:text-6xl text-black font-bold'>Barbershop @ <br /> Ada Geroge <br /> PORTHARCOURT</h1>
+            <h1 data-aos="zoom-in" className='text-4xl md:text-6xl text-black font-bold'>BestMan Barbershop @ Ada Geroge <br /> PORTHARCOURT</h1>
             <div data-aos="fade-up" id='icon-list' className="flex flex-col justify-center items-start gap-6">
                 <div id="icon-box" className="flex items-center justify-center gap-3">
                     <FaLocationDot size={30} className='text-black size-6' />
                     <h1 className='text-xl text-gray-800 font-semibold'>
-                        Road 6 New Road by AdaGeorge, Portharcourt, Rivers State
+                        Road 6, 2nd Avenue New Road by AdaGeorge, Portharcourt, Rivers State
                     </h1>
                 </div>
                 <div id="icon-box" className="flex items-center justify-center gap-3">
                     <MdOutlinePhoneAndroid size={30} className='text-black size-6' />
                     <h1 className='text-xl text-gray-800 font-semibold'>
-                        +234 814 920 8959 / +234 704 744 2132
+                        +234 814 193 7054 / +234 704 744 2132
                     </h1>
                 </div>
                 <div id="icon-box" className="flex items-center justify-center gap-3">
