@@ -35,7 +35,7 @@ const Testimonials = () => {
         });
       }, [])
   return (
-    <section className="w-full md:px-20 md:h-[165vh] h-fit px-4 py-20 flex flex-col 
+    <section id='testimonials' className="w-full md:px-20 md:h-[165vh] h-fit px-4 py-20 flex flex-col 
       justify-end items-center gap-16 bg-[#a69f7d]">
       <h1 data-aos="zoom-in" className="text-6xl font-bold text-white text-center">What Our Clients Say</h1>
       <p data-aos="zoom-in" className="text-white text-center font-semibold">
