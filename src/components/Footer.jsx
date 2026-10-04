@@ -28,7 +28,7 @@ const Footer = () => {
             </div>
           </div>
           <p className='text-lg text-center font-semibold text-slate-600'>
-            Designed and Developed by ChrisDotJs <br />&copy; 2026 Deedge. All rights reserved.
+            Designed and Developed by ChrisDotJs <br />&copy; 2026 De edge. All rights reserved.
           </p>
     </section>
     <div data-aos='slide-right' data-aos-delay='200' className="bg-[#a69f7d] p-4 rounded-full hover:bg-black text-white cursor-pointer 
