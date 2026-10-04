@@ -16,27 +16,43 @@ const Pricing = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 justify-center items-center gap-20 w-[85%]">
         <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
           <h1 className="text-xl font-bold">Haircut</h1>
-          <p className="text-xl font-bold text-[#a69f7d]">$20</p>
+          <p className="text-xl font-bold text-[#a69f7d]">₦3500</p>
         </div>
         <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
           <h1 className="text-xl font-bold">Beard Trim</h1>
-          <p className="text-xl font-bold text-[#a69f7d]">$15</p>
+          <p className="text-xl font-bold text-[#a69f7d]">₦1500</p>
         </div>
         <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
           <h1 className="text-xl font-bold">Haircut + Beard Trim</h1>
-          <p className="text-xl font-bold text-[#a69f7d]">$30</p>
+          <p className="text-xl font-bold text-[#a69f7d]">₦3000</p>
         </div>
         <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
           <h1 className="text-xl font-bold">Hair Coloring</h1>
-          <p className="text-xl font-bold text-[#a69f7d]">$50</p>
+          <p className="text-xl font-bold text-[#a69f7d]">₦2500</p>
         </div>
         <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
           <h1 className="text-xl font-bold">Women Haircut</h1>
-          <p className="text-xl font-bold text-[#a69f7d]">$25</p>
+          <p className="text-xl font-bold text-[#a69f7d]">₦2500</p>
         </div>
         <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
           <h1 className="text-xl font-bold">Shaving</h1>
-          <p className="text-xl font-bold text-[#a69f7d]">$10</p>
+          <p className="text-xl font-bold text-[#a69f7d]">₦2000</p>
+        </div>
+        <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
+          <h1 className="text-xl font-bold">Haircut + Colouring</h1>
+          <p className="text-xl font-bold text-[#a69f7d]">₦5000</p>
+        </div>
+        <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
+          <h1 className="text-xl font-bold">Maicure</h1>
+          <p className="text-xl font-bold text-[#a69f7d]">₦3000</p>
+        </div>
+        <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
+          <h1 className="text-xl font-bold">Facials</h1>
+          <p className="text-xl font-bold text-[#a69f7d]">₦3000</p>
+        </div>
+        <div data-aos="zoom-in" className="flex justify-between items-center gap-6 border-b-2 border-[#a69f7d]">
+          <h1 className="text-xl font-bold">Pedicure</h1>
+          <p className="text-xl font-bold text-[#a69f7d]">₦3000</p>
         </div>
       </div>
     </section>

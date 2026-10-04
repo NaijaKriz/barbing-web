@@ -21,7 +21,7 @@ const Testimonials = () => {
     {
       image: simon,
       name: "Mike Johnson",
-     title: "Highly recommend this barber.",
+     title: "Highly recommend De Edge.",
     },
   ];
 
