@@ -28,30 +28,30 @@ const Hero = () => {
         <div id='content-box' className=" flex flex-col 
         justify-center items-start gap-4">
             <h1 data-aos="zoom-in" className='text-xl md:text-2xl text-black font-semibold'>WELCOME TO</h1>
-            <h1 data-aos="zoom-in" className='text-4xl md:text-6xl text-black font-bold'>BestMan Barbershop <br /> @ Ada Geroge <br /> PORTHARCOURT</h1>
+            <h1 data-aos="zoom-in" className='text-4xl md:text-6xl text-black font-bold'>De Edges Barbershop <br /> @ Ada Geroge <br /> PORTHARCOURT</h1>
             <div data-aos="fade-up" id='icon-list' className="flex flex-col justify-center items-start gap-6">
                 <div id="icon-box" className="flex items-center justify-center gap-3">
                     <FaLocationDot size={30} className='text-black size-6' />
                     <h1 className='text-xl text-gray-800 font-semibold'>
-                        Road 6, 2nd Avenue New Road by AdaGeorge, Portharcourt, Rivers State
+                        Road 4, 2nd Avenue New Road by AdaGeorge, Portharcourt, Rivers State
                     </h1>
                 </div>
                 <div id="icon-box" className="flex items-center justify-center gap-3">
                     <MdOutlinePhoneAndroid size={30} className='text-black size-6' />
                     <h1 className='text-xl text-gray-800 font-semibold'>
-                        +234 814 193 7054 / +234 704 744 2132
+                        +234 8031569678 / +234 8036932096
                     </h1>
                 </div>
                 <div id="icon-box" className="flex items-center justify-center gap-3">
                     <MdEmail size={30} className='text-black size-6' />
                     <h1 className='text-xl text-gray-800 font-semibold'>
-                        imebachristianinnocent@gmail.com
+                        deedges@gmail.com
                     </h1>
                 </div>
                 <div id="icon-box" className="flex items-center justify-center gap-3">
                     <FaHeadphones size={30} className='text-black size-6' />
                     <h1 className='text-xl text-gray-800 font-semibold'>
-                        Road 6 New Road, Portharcourt, Rivers State
+                        Road 4 New Road, Portharcourt, Rivers State
                     </h1>
                 </div>
             </div>
@@ -71,17 +71,17 @@ const Hero = () => {
         </div>
         <div data-aos='zooom-in' data-aos-delay="200" className="flex flex-col justify-center items-center gap-4">
             <img src={menshair} alt="" className='size-16 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
-            <h1 className="text-2xl text-black font-semibold">Men  haircut</h1>
+            <h1 className="text-2xl text-black font-semibold">Pedicure</h1>
             <button className="px-10 py-3 bg-black text-white text-md font-semibold rounded-xl cursor-pointer hover:bg-[#a69f7d] hover:text-black">MORE</button>
         </div>
         <div data-aos='zooom-in' data-aos-delay="200" className="flex flex-col justify-center items-center gap-4">
             <img src={trimmer} alt="" className='size-16 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
-            <h1 className="text-2xl text-black font-semibold">Regular trimmer</h1>
+            <h1 className="text-2xl text-black font-semibold">Facials</h1>
             <button className="px-10 py-3 bg-black text-white text-md font-semibold rounded-xl cursor-pointer hover:bg-[#a69f7d] hover:text-black">MORE</button>
         </div>
         <div data-aos='zooom-in' data-aos-delay="200" className="flex flex-col justify-center items-center gap-4">
             <img src={womenshair} alt="" className='size-16 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
-            <h1 className="text-2xl text-black font-semibold">Women haircut</h1>
+            <h1 className="text-2xl text-black font-semibold">Manicuret</h1>
             <button className="px-10 py-3 bg-black text-white text-md font-semibold rounded-xl cursor-pointer hover:bg-[#a69f7d] hover:text-black">MORE</button>
         </div>
     </section>
