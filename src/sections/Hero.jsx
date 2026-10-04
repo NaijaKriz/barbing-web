@@ -1,9 +1,9 @@
 import React, { use } from 'react'
 import scissors from '../assets/scissors2.png'
 import heroimg from '../assets/7.jpg'
-import menshair from '../assets/3.jpeg'
-import womenshair from '../assets/3.png'
-import trimmer from '../assets/2.png'
+import menshair from '../assets/22.jpeg'
+import womenshair from '../assets/23.jpeg'
+import trimmer from '../assets/25.jpeg'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 import { useEffect } from 'react'
@@ -81,7 +81,7 @@ const Hero = () => {
         </div>
         <div data-aos='zooom-in' data-aos-delay="200" className="flex flex-col justify-center items-center gap-4">
             <img src={womenshair} alt="" className='size-16 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
-            <h1 className="text-2xl text-black font-semibold">Manicuret</h1>
+            <h1 className="text-2xl text-black font-semibold">Manicure</h1>
             <button className="px-10 py-3 bg-black text-white text-md font-semibold rounded-xl cursor-pointer hover:bg-[#a69f7d] hover:text-black">MORE</button>
         </div>
     </section>
