@@ -65,22 +65,22 @@ const Hero = () => {
 
     <section className="grid grid-cols-1 md:grid-cols-4 justify-center items-start w-full md:px-[120px] px-4 lg:px-10 py-10 gap-10">
         <div data-aos='zooom-in' data-aos-delay="200" className="flex flex-col justify-center items-center gap-4">
-            <img src={scissors} alt="" className='size-16 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
+            <img src={scissors} alt="" className='size-36 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
             <h1 className="text-2xl text-black font-semibold">Regular haircut</h1>
             <button className="px-10 py-3 bg-black text-white text-md font-semibold rounded-xl cursor-pointer hover:bg-[#a69f7d] hover:text-black">MORE</button>
         </div>
         <div data-aos='zooom-in' data-aos-delay="200" className="flex flex-col justify-center items-center gap-4">
-            <img src={menshair} alt="" className='size-16 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
+            <img src={menshair} alt="" className='size-36 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
             <h1 className="text-2xl text-black font-semibold">Pedicure</h1>
             <button className="px-10 py-3 bg-black text-white text-md font-semibold rounded-xl cursor-pointer hover:bg-[#a69f7d] hover:text-black">MORE</button>
         </div>
         <div data-aos='zooom-in' data-aos-delay="200" className="flex flex-col justify-center items-center gap-4">
-            <img src={trimmer} alt="" className='size-16 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
+            <img src={trimmer} alt="" className='size-36 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
             <h1 className="text-2xl text-black font-semibold">Facials</h1>
             <button className="px-10 py-3 bg-black text-white text-md font-semibold rounded-xl cursor-pointer hover:bg-[#a69f7d] hover:text-black">MORE</button>
         </div>
         <div data-aos='zooom-in' data-aos-delay="200" className="flex flex-col justify-center items-center gap-4">
-            <img src={womenshair} alt="" className='size-16 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
+            <img src={womenshair} alt="" className='size-36 transform hover:scale-110 transition-transform duration-300 cursor-pointer' />
             <h1 className="text-2xl text-black font-semibold">Manicure</h1>
             <button className="px-10 py-3 bg-black text-white text-md font-semibold rounded-xl cursor-pointer hover:bg-[#a69f7d] hover:text-black">MORE</button>
         </div>
